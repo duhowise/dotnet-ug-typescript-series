@@ -1,0 +1,1 @@
+const somethingAwesome=0;
